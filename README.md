@@ -190,7 +190,7 @@ Punjab, India
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Karan1674/Karan1674/output/github-contribution-grid-snake.svg"/>
