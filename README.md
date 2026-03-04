@@ -23,7 +23,19 @@ My primary expertise lies in **Full Stack Development using modern JavaScript te
 
 I enjoy solving real-world problems through software development while continuously improving my engineering skills and exploring new technologies.
 
+
 ---
+
+# 🧰 Tech Stack (Tech Icon Grid)
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,ejs,git,github,postman,java,python,cpp,c,vscode"/>
+
+</p>
+
+---
+
 
 # 💡 What I Focus On
 
@@ -70,17 +82,9 @@ Optimizing applications through efficient rendering, optimized queries, and perf
 ### 🔹 Continuous Learning
 Constantly learning new tools, frameworks, and development practices to stay updated with modern software development.
 
----
-
-# 🧰 Tech Stack (Tech Icon Grid)
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,ejs,git,github,postman,java,python,cpp,c,vscode"/>
-
-</p>
 
 ---
+
 
 # 🛠 Technologies & Tools
 
@@ -154,12 +158,10 @@ Constantly learning new tools, frameworks, and development practices to stay upd
 
 ---
 
-# 📈 3D Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karan1674&theme=tokyo-night"/>
-
+<img src="https://raw.githubusercontent.com/Karan1674/Karan1674/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
