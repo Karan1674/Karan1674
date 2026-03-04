@@ -158,14 +158,6 @@ Constantly learning new tools, frameworks, and development practices to stay upd
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Karan1674/Karan1674/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 # ⚡ Coding Activity
 
 <p align="center">
@@ -195,7 +187,7 @@ Punjab, India
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Karan1674/Karan1674/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Karan1674/Karan1674/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
