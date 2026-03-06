@@ -63,9 +63,7 @@ I constantly work on improving my engineering skills while exploring new technol
 <br>
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,ejs,git,github,postman,java,python,cpp,c,vscode"/>
-
 </p>
 
 ---
