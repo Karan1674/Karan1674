@@ -104,6 +104,9 @@ Frontend development focuses on building responsive, interactive, and user-frien
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux"/>
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass"/>
 
 </p>
 
@@ -126,6 +129,9 @@ Backend development focuses on building secure, scalable, and efficient server-s
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express"/>
 <img src="https://img.shields.io/badge/EJS-template-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/REST%20API-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
 </p>
