@@ -8,13 +8,9 @@
 Software Developer • Full Stack Developer • MERN Stack Developer
 </h3>
 
-<br>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Developer;Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Passionate+About+Modern+Web+Technologies;Always+Learning+and+Improving"/>
 </p>
-
-<br>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Karan1674&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
@@ -22,31 +18,17 @@ Software Developer • Full Stack Developer • MERN Stack Developer
 
 ---
 
-<br>
-
 ## 🚀 About Me
-
-<br>
 
 I am a passionate **Software Developer and Full Stack Developer** dedicated to building modern, scalable, and high-performance web applications.
 
-<br>
-
 My expertise lies in **Full Stack Web Development**, especially with modern JavaScript technologies including **MongoDB, Express.js, React, Node.js, and EJS**.
-
-<br>
 
 I enjoy transforming ideas into real-world applications by combining **strong backend logic, efficient database architecture, and modern responsive user interfaces**.
 
-<br>
-
 I constantly work on improving my engineering skills while exploring new technologies that help create **efficient, scalable, and maintainable software systems**.
 
-<br>
-
 ### 👨‍💻 Developer Mindset
-
-<br>
 
 - Focused on **clean and maintainable code**
 - Passionate about **modern web technologies**
@@ -56,11 +38,7 @@ I constantly work on improving my engineering skills while exploring new technol
 
 ---
 
-<br>
-
 ## 🧰 Complete Tech Stack
-
-<br>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,ejs,git,github,postman,java,python,cpp,c,vscode"/>
@@ -68,11 +46,7 @@ I constantly work on improving my engineering skills while exploring new technol
 
 ---
 
-<br>
-
 ## 💻 Programming Languages
-
-<br>
 
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -80,23 +54,15 @@ I constantly work on improving my engineering skills while exploring new technol
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black"/>
-
 </p>
 
 ---
 
-<br>
-
 ## 🎨 Frontend Development
-
-<br>
 
 Frontend development focuses on building responsive, interactive, and user-friendly interfaces for modern web applications.
 
-<br/>
-
 <p align="center">
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -107,25 +73,15 @@ Frontend development focuses on building responsive, interactive, and user-frien
 <img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux"/>
 <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass"/>
-
 </p>
-
-<br>
 
 ---
 
-<br>
-
 ## ⚙ Backend Development
-
-<br>
 
 Backend development focuses on building secure, scalable, and efficient server-side systems that power modern web applications.
 
-<br/>
-
 <p align="center">
-
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express"/>
 <img src="https://img.shields.io/badge/EJS-template-yellow?style=for-the-badge"/>
@@ -133,47 +89,27 @@ Backend development focuses on building secure, scalable, and efficient server-s
 <img src="https://img.shields.io/badge/REST%20API-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-
 </p>
 
-<br>
-
 ---
-
-<br>
 
 ## 🗄 Databases
 
-<br>
-
 Database management focuses on designing efficient data structures, optimizing queries, and ensuring reliable data storage for applications.
 
-<br>
-
 <p align="center">
-
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 </p>
-
-<br>
 
 ---
 
-<br>
-
 ## 🧰 Development Tools & Workflow
 
-<br>
-
-Development tools and workflow technologies help streamline the software development process, enabling efficient coding, version control, debugging, testing, and deployment of modern applications.
-
-<br/>
+Development tools and workflow technologies help streamline the software development process.
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman"/>
@@ -182,49 +118,29 @@ Development tools and workflow technologies help streamline the software develop
 <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 <img src="https://img.shields.io/badge/Chrome%20DevTools-blue?style=for-the-badge&logo=googlechrome"/>
-
 </p>
 
-<br/>
-
 ---
-
-<br>
 
 ## ⚡ Coding Streak
 
-<br>
-
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karan1674&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
-
-<br>
 
 ## 📈 Contribution Activity
 
-<br>
-
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karan1674&theme=tokyo-night"/>
-
 </p>
 
 ---
 
-<br>
-
 ## 🧠 Soft Skills
 
-<br>
-
 <p align="center">
-
 <img src="https://img.shields.io/badge/Problem%20Solving-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Communication-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Team%20Collaboration-orange?style=for-the-badge"/>
@@ -233,19 +149,13 @@ Development tools and workflow technologies help streamline the software develop
 <img src="https://img.shields.io/badge/Time%20Management-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Fast%20Learner-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Creativity-pink?style=for-the-badge"/>
-
 </p>
 
 ---
 
-<br>
-
 ## 🌐 Connect With Me
 
-<br>
-
 <p align="center">
-
 <a href="mailto:karanjitsingh1674@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -257,16 +167,11 @@ Development tools and workflow technologies help streamline the software develop
 <a href="https://github.com/Karan1674">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
-
 </p>
 
 ---
 
-<br>
-
 ## 🐍 Contribution Snake
-
-<br>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Karan1674/Karan1674/output/github-contribution-grid-snake-dark.svg"/>
@@ -274,23 +179,14 @@ Development tools and workflow technologies help streamline the software develop
 
 ---
 
-<br>
-
 <p align="center">
-"Programs must be written for people to read, and only incidentally for machines to execute."  — Harold Abelson
+"Programs must be written for people to read, and only incidentally for machines to execute." — Harold Abelson
 </p>
-
-<br>
 
 <p align="center">
 ⭐ Thanks for visiting my profile!
 </p>
 
-<br>
-
 <p align="center">
 <b>From Karanjit Singh — Building the future with code</b>
 </p>
-
-
-
