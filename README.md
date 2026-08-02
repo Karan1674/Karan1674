@@ -1,192 +1,148 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=230&section=header&text=Karanjit%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=220&section=header&text=Karanjit%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Karanjit Singh</h1>
 
 <h3 align="center">
-Software Developer • Full Stack Developer • MERN Stack Developer
+Software Developer • Full-Stack Engineer • MERN Stack Specialist
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Developer;Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Passionate+About+Modern+Web+Technologies;Always+Learning+and+Improving"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Karan1674&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <a href="https://linkedin.com/in/karanjit-singh-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:karanjitsingh1674@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Karan1674"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate **Software Developer and Full Stack Developer** dedicated to building modern, scalable, and high-performance web applications.
+I am a results-driven **Software Developer and Full-Stack Engineer** specializing in designing, architecting, and deploying modern, high-performance web applications.
 
-My expertise lies in **Full Stack Web Development**, especially with modern JavaScript technologies including **MongoDB, Express.js, React, Node.js, and EJS**.
+With a strong foundation in Computer Science and hands-on experience in full-stack engineering, I bridge the gap between robust server-side logic and smooth, user-centric front-end interfaces. My primary domain of expertise revolves around the **MERN stack (MongoDB, Express.js, React.js, Node.js)** alongside server-side rendering with **EJS** and modern SSR frameworks like **Next.js**.
 
-I enjoy transforming ideas into real-world applications by combining **strong backend logic, efficient database architecture, and modern responsive user interfaces**.
-
-I constantly work on improving my engineering skills while exploring new technologies that help create **efficient, scalable, and maintainable software systems**.
-
-### 👨‍💻 Developer Mindset
-
-- Focused on **clean and maintainable code**
-- Passionate about **modern web technologies**
-- Always learning **new frameworks and tools**
-- Building projects that solve **real-world problems**
-- Interested in **software architecture and performance optimization**
-
----
-
-## 🧰 Complete Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,ejs,git,github,postman,java,python,cpp,c,vscode"/>
-</p>
+### 💡 What I Bring to the Table
+- **End-to-End Application Architecture:** Designing scalable database schemas, writing modular controllers, and connecting RESTful APIs to dynamic UI components.
+- **Security & Authorization:** Implementing strict authentication workflows using **JWT**, HTTP-only cookies, OAuth 2.0, and granular Role-Based Access Control (RBAC).
+- **AI & Real-Time Workflows:** Integrating Large Language Model APIs (Google Gemini, OpenAI) and third-party services like Stripe, Cloudinary, and Strapi CMS into production web apps.
+- **Clean Code & Performance Optimization:** Passionate about component reusability, asynchronous state management via **Redux Toolkit**, database query indexing, and responsive design systems.
 
 ---
 
 ## 💻 Programming Languages
 
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
 
-## 🎨 Frontend Development
+## 🎨 Frontend Technologies & Frameworks
 
-Frontend development focuses on building responsive, interactive, and user-friendly interfaces for modern web applications.
-
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux"/>
-<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EJS%20Templates-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
 
-## ⚙ Backend Development
+## ⚙ Backend & Security
 
-Backend development focuses on building secure, scalable, and efficient server-side systems that power modern web applications.
-
-<p align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/EJS-template-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
-<img src="https://img.shields.io/badge/REST%20API-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth%202.0-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RBAC-green?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🗄 Databases
+## 🗄 Databases & ORM
 
-Database management focuses on designing efficient data structures, optimizing queries, and ensuring reliable data storage for applications.
-
-<p align="center">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose%20ODM-880000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-## 🧰 Development Tools & Workflow
+## 🛠 Developer Tools, Cloud & Deployment
 
-Development tools and workflow technologies help streamline the software development process.
-
-<p align="center">
-<img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman"/>
-<img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode"/>
-<img src="https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm"/>
-<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-<img src="https://img.shields.io/badge/Chrome%20DevTools-blue?style=for-the-badge&logo=googlechrome"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 </p>
 
 ---
 
-## ⚡ Coding Streak
+## 💼 Featured Work & Internships
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karan1674&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karan1674&theme=tokyo-night"/>
-</p>
+- **Full-Stack Development Intern** | *Excellence Technology* (Jan 2026 – Jul 2026)
+  - Engineered scalable full-stack web platforms using **React.js, Node.js, Express.js, and MongoDB**.
+  - Implemented secure REST APIs with **JWT authentication** and role-based access control (RBAC).
+- **Software Development Intern** | *Boxl Technologies* (Jul 2025 – Aug 2025)
+  - Developed server-side rendered (SSR) web applications using **Node.js, Express.js, MongoDB, and EJS**.
+- **Full-Stack Development Intern** | *Excellence Technology* (Jun 2024 – Jul 2024)
+  - Built responsive, accessible front-end interfaces using **React.js, JavaScript (ES6+), and HTML5/CSS3**.
 
 ---
 
-## 🧠 Soft Skills
+## 🚀 Key Projects
 
-<p align="center">
-<img src="https://img.shields.io/badge/Problem%20Solving-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Communication-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Team%20Collaboration-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Critical%20Thinking-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Adaptability-teal?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Time%20Management-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Fast%20Learner-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Creativity-pink?style=for-the-badge"/>
-</p>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **UniEvent** | Campus event management system with dynamic QR code generation & live scanning. | React.js, Node.js, Express.js, MongoDB, JWT |
+| **WorkSphere** | Collaborative task platform with document conversion and Gemini AI integration. | React.js, Express.js, MongoDB, Gemini API |
+| **AI Resume Builder** | Intelligent resume generator featuring real-time preview layouts and automated content. | React.js, Strapi CMS, PostgreSQL, OpenAI API |
+| **CareerLink** | Full-stack recruitment portal supporting applicant tracking and job filtering. | React.js, Redux Toolkit, Node.js, Cloudinary |
+| **LensFillers** | Commercial photography studio portfolio and administrative gallery system. | React.js, Node.js, Express.js, MongoDB |
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="mailto:karanjitsingh1674@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/karanjit-singh-dev">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Karan1674">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
+  <a href="mailto:karanjitsingh1674@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/karanjit-singh-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Karan1674">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
----
-
-## 🐍 Contribution Snake
+<br />
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Karan1674/Karan1674/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-<p align="center">
-"Programs must be written for people to read, and only incidentally for machines to execute." — Harold Abelson
+  <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i> — <b>Harold Abelson</b>
 </p>
 
 <p align="center">
-⭐ Thanks for visiting my profile!
-</p>
-
-<p align="center">
-<b>From Karanjit Singh — Building the future with code</b>
+  <b>⭐ Thanks for visiting my profile! | Built by Karanjit Singh</b>
 </p>
